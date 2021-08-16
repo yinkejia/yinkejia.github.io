@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Post
+title: About Me
 date: 2016-02-15 15:32:24.000000000 +09:00
 ---
 
@@ -17,3 +17,14 @@ date: 2016-02-15 15:32:24.000000000 +09:00
     </td>
   </tr>
 </table><img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/DSC_0003.JPG" width="102" height="144">
+
+### ABOUT ME <a href="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CV_Kejia Yin.pdf" target="_blank">[CV]</a>
+
+<table border="0">
+  <tr>
+    <td width="200%">
+      <p>I am a student at the School of Xuteli which recruits the best students of BIT and aims to cultivate talented researchers. Thanks to its flexible policy, I was able to know my advisor Prof. <a href="http://shuangli.xyz/" target="_blank">Shuang Li</a> and start my research career.</p>
+      <p>As for my personality, I am a hardworking and conscientious student and can always finish my work with good quality before the deadline. Also, I  am a quick learner, and I'm always willing to learn new knowledge by myself.</p>
+     </td>
+  </tr>
+</table>
