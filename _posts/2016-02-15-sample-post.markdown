@@ -17,7 +17,7 @@ date: 2016-02-15 15:32:24.000000000 +09:00
     </td>
   </tr>
 </table>
-
+<br>
 ### ABOUT ME <a href="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CV_Kejia Yin.pdf" target="_blank">[CV]</a><img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/DSC_0003.JPG" width="102" height="144">
 
 <p>I am a student at the School of Xuteli which recruits the best students of BIT and aims to cultivate talented researchers. Thanks to its flexible policy, I was able to know my advisor Prof. <a href="http://shuangli.xyz/" target="_blank">Shuang Li</a> and start my research career.</p>
