@@ -34,11 +34,6 @@ nav:
 plugins: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
-
-# Comment
-comment:
-    disqus: vno-jekyll
-    # duoshuo: 
     
 # Social
 social:
