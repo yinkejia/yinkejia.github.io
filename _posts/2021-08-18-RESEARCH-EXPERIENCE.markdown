@@ -7,8 +7,13 @@ date: 2021-08-18 15:32:24.000000000 +09:00
 <table border="0">
   <tr>
     <td width="100%" align="left">
+      <font size="4">
       <p><strong>Balancing real-world inverted pendulums via virtual training with RL | Jul 2021- Present</strong></p>
-      <p>Advisor: Hien Tran, Professor and Associate Head at Department of Mathematics, North Carolina State University</p>
+      </font>
+      <font size="3">
+      <p><i>Advisor: Hien Tran, Professor and Associate Head at Department of Mathematics, North Carolina State University</i></p>
+      </font>
+      <font size="3">
       <ui>
         <li>Implemented Policy Gradient, Actor Critic, and Proximal Policy Optimization with Pytorch and successfully balanced the single inverted pendulum in a modified gym environment which provides a more realistic simulation of physical laws.</li>
         <li>Successfully balanced the double inverted pendulum by using Actor Critic in a modified gym environment.</li>
@@ -17,6 +22,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
         <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Demo_AC_SIP&DIP.gif" width="160" height="240">
         <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Kejia Pendulum_small.gif" width="300" height="240">
       </ui>
+      </font>
     </td>
   </tr>
   <tr>
