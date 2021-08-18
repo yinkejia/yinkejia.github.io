@@ -16,9 +16,9 @@ highlighter: rouge
 cover_color: slate
 
 # The blog button should not be removed.
-blog_button:
-    title: Home
-    description: Visit Home
+#blog_button:
+ #   title: Home
+  #  description: Visit Home
 
 # Navigation buttons in the front page.
 nav:
