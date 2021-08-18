@@ -3,9 +3,10 @@ layout: post
 title: RESEARCH EXPERIENCE
 date: 2021-08-18 15:32:24.000000000 +09:00
 ---
-<font size="3">
+
 <table border="0">
   <tr>
+    <font size="3">
     <td width="100%" align="left">
       <p><strong>Balancing real-world inverted pendulums via virtual training with RL | Jul 2021- Present</strong></p>
       <p><em>Advisor: Hien Tran, Professor and Associate Head at Department of Mathematics, North Carolina State University</em></p>
@@ -57,8 +58,9 @@ date: 2021-08-18 15:32:24.000000000 +09:00
         <li>Wrote a report to analyze the causes of instability of training GAN from the aspect of loss function based on formula derivation and explain the advantages of the loss function used in WGAN.</li>
         <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CycleGAN_before.png" width="128" height="128">
         <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CycleGAN_after.jpg" width="128" height="128">
-      </ui>
+      </ui> 
     </td>
+    </font>
   </tr>
 </table>
-</font>
+
