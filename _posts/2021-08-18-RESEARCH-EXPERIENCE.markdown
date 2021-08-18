@@ -15,8 +15,8 @@ date: 2021-08-18 15:32:24.000000000 +09:00
         <li>Successfully balanced the double inverted pendulum by using Actor Critic in a modified gym environment.</li>
         <li>Successfully applied our trained model in the gym to balance a real single inverted pendulum in the lab.</li>
         <li>Trying to directly apply our trained model in the gym to balance a real double inverted pendulum in the lab.</li>
-        <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Demo_AC_SIP&DIP.gif" width="160" height="240">
-        <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Kejia Pendulum_small.gif" width="300" height="240">
+        <img style="float:right" src="/assets/images/Demo_AC_SIP&DIP.gif" width="160" height="240">
+        <img style="float:right" src="/assets/images/Kejia Pendulum_small.gif" width="300" height="240">
       </ui>
       </font>  
     </td>
@@ -62,8 +62,8 @@ date: 2021-08-18 15:32:24.000000000 +09:00
       <ui>
         <li>Implemented existing works on generative adversarial networks for images including DCGAN, WGAN, Cycle GAN.</li>
         <li>Wrote a report to analyze the causes of instability of training GAN from the aspect of loss function based on formula derivation and explain the advantages of the loss function used in WGAN.</li>
-        <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CycleGAN_before.png" width="128" height="128">
-        <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CycleGAN_after.jpg" width="128" height="128">
+        <img style="float:right" src="/assets/images/CycleGAN_before.png" width="128" height="128">
+        <img style="float:right" src="/assets/images/CycleGAN_after.jpg" width="128" height="128">
       </ui> 
       </font>
     </td>
