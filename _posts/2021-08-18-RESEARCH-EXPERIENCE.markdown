@@ -4,39 +4,60 @@ title: RESEARCH EXPERIENCE
 date: 2021-08-18 15:32:24.000000000 +09:00
 ---
 
-  <p><strong>Balancing real-world inverted pendulums via virtual training with RL | Jul 2021- Present</strong></p>
-  <p>Advisor: Hien Tran, Professor and Associate Head at Department of Mathematics, North Carolina State University</p>
-  <ui>
-    <li>Implemented Policy Gradient, Actor Critic, and Proximal Policy Optimization with Pytorch and successfully balanced the single inverted pendulum in a modified gym environment which provides a more realistic simulation of physical laws.</li>
-    <li>Successfully balanced the double inverted pendulum by using Actor Critic in a modified gym environment.</li>
-    <li>Successfully applied our trained model in the gym to balance a real single inverted pendulum in the lab.</li>
-    <li>Trying to directly apply our trained model in the gym to balance a real double inverted pendulum in the lab.</li>
-    <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Demo_AC_SIP&DIP.gif" width="160" height="240">
-    <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Kejia Pendulum_small.gif" width="300" height="240">
-  </ui>
-  <p><strong>Long-tailed image classification | Feb 2021- Mar 2021</strong></p>
-  <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
-  <ui>
-    <li>Explored novel approaches to addressing long-tailed image classification problems by augmenting long-tailed datasets via synthesizing new data according to closest neighbor classes.</li>
-    <li>Implemented a novel method and evaluated it on artificial long-tailed datasets CIFAR-10 which had competitive results with state-of-the-art methods</li>
-  </ui>
-  <p><strong>Checkerboard recognition and game algorithm of gobang | Dec 2020 - Jan 2021</strong></p>
-  <p>Advisor: Zhiwei Zhang, Professor at School of Computer Science, Beijing Institute of Technology</p>
-  <ui>
-    <li>Implemented CNNs for checkerboard recognition with Pytorch.</li>
-    <li>Implemented gobang AI algorithms based on the minimax search strategies, evolutionary algorithms, and deep Q-Learning (in Tensorflow).</li>
-    <li>Wrote a report to analyze the results of the experiments above. The gobang AI based on minimax search and Deep Q-Learning approaches achieved good performance which is comparable to humans’.</li>
-    <center>
-    <video width="480" height="270" controls>
-      <source src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Gobang_RL.mp4" type="video/mp4">
-    </video>
-    </center>
-  </ui>
-  <p><strong>Theoretical understanding and image generation applications with GAN | Nov 2020 - Nov 2020</strong></p>
-  <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
-  <ui>
-    <li>Implemented existing works on generative adversarial networks for images including DCGAN, WGAN, Cycle GAN.</li>
-    <li>Wrote a report to analyze the causes of instability of training GAN from the aspect of loss function based on formula derivation and explain the advantages of the loss function used in WGAN.</li>
-    <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CycleGAN_before.png" width="128" height="128">
-    <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CycleGAN_after.jpg" width="128" height="128">
-  </ui>
+<table border="0">
+  <tr>
+    <td width="100%" align="left">
+      <p><strong>Balancing real-world inverted pendulums via virtual training with RL | Jul 2021- Present</strong></p>
+      <p>Advisor: Hien Tran, Professor and Associate Head at Department of Mathematics, North Carolina State University</p>
+      <ui>
+        <li>Implemented Policy Gradient, Actor Critic, and Proximal Policy Optimization with Pytorch and successfully balanced the single inverted pendulum in a modified gym environment which provides a more realistic simulation of physical laws.</li>
+        <li>Successfully balanced the double inverted pendulum by using Actor Critic in a modified gym environment.</li>
+        <li>Successfully applied our trained model in the gym to balance a real single inverted pendulum in the lab.</li>
+        <li>Trying to directly apply our trained model in the gym to balance a real double inverted pendulum in the lab.</li>
+        <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Demo_AC_SIP&DIP.gif" width="160" height="240">
+        <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Kejia Pendulum_small.gif" width="300" height="240">
+      </ui>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="left">
+      <HR>
+      <p><strong>Long-tailed image classification | Feb 2021- Mar 2021</strong></p>
+      <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
+      <ui>
+        <li>Explored novel approaches to addressing long-tailed image classification problems by augmenting long-tailed datasets via synthesizing new data according to closest neighbor classes.</li>
+        <li>Implemented a novel method and evaluated it on artificial long-tailed datasets CIFAR-10 which had competitive results with state-of-the-art methods</li>
+      </ui>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="left">
+      <HR>
+      <p><strong>Checkerboard recognition and game algorithm of gobang | Dec 2020 - Jan 2021</strong></p>
+      <p>Advisor: Zhiwei Zhang, Professor at School of Computer Science, Beijing Institute of Technology</p>
+      <ui>
+        <li>Implemented CNNs for checkerboard recognition with Pytorch.</li>
+        <li>Implemented gobang AI algorithms based on the minimax search strategies, evolutionary algorithms, and deep Q-Learning (in Tensorflow).</li>
+        <li>Wrote a report to analyze the results of the experiments above. The gobang AI based on minimax search and Deep Q-Learning approaches achieved good performance which is comparable to humans’.</li>
+        <center>
+        <video width="480" height="270" controls>
+          <source src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Gobang_RL.mp4" type="video/mp4">
+        </video>
+        </center>
+      </ui>
+    </td>
+ </tr>
+ <tr>
+    <td width="100%" align="left">
+       <HR>
+      <p><strong>Theoretical understanding and image generation applications with GAN | Nov 2020 - Nov 2020</strong></p>
+      <p>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</p>
+      <ui>
+        <li>Implemented existing works on generative adversarial networks for images including DCGAN, WGAN, Cycle GAN.</li>
+        <li>Wrote a report to analyze the causes of instability of training GAN from the aspect of loss function based on formula derivation and explain the advantages of the loss function used in WGAN.</li>
+        <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CycleGAN_before.png" width="128" height="128">
+        <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CycleGAN_after.jpg" width="128" height="128">
+      </ui>
+    </td>
+  </tr>
+</table>
