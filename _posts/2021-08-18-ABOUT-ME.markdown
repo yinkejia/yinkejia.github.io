@@ -5,13 +5,13 @@ date: 2021-08-18 15:32:24.000000000 +09:00
 ---
 <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/DSC_0003.JPG" width="102" height="144">
 <h2>KeJia Yin <a href="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CV_Kejia Yin.pdf" target="_blank">[CV]</a></h2>
-<p><b>Undergraduate student</b></p>    
-<p><b>Beijing Institute of Technology (BIT)</b></p>
-<p><b>School of Xuteli</b></p>
-<p><b>B.E. in Computer Science and Technology</b></p>
-<p><b>E-mail：yinkejiaykj@163.com</b></p>
-<p><b>Address: 5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</b></p>
-<br><br><br><br><br>
+<p><font color="red">Undergraduate student</font></p>    
+<p><font color="red">Beijing Institute of Technology (BIT)</font></p>
+<p><font color="red">School of Xuteli</font></p>
+<p><font color="red">B.E. in Computer Science and Technology</font></p>
+<p><font color="red">E-mail：yinkejiaykj@163.com</font></p>
+<p><font color="red">Address: 5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</font></p>
+<br><br>
 <p>I am a student at the School of Xuteli which recruits the best students of BIT and aims to cultivate talented researchers. Thanks to its flexible policy, I was able to know my advisor Prof. <a href="http://shuangli.xyz/" target="_blank">Shuang Li</a> and start my research career.</p>
 <p>As for my personality, I am a hardworking and conscientious student and can always finish my work with good quality before the deadline. Also, I  am a quick learner, and I'm always willing to learn new knowledge by myself.</p>
 
