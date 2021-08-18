@@ -57,7 +57,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
     <td width="100%" align="left">
        <HR>
       <font size="3">
-      <p><strong>Theoretical understanding and image generation applications with GAN | Nov 2020 - Nov 2020</strong></p>
+      <p><strong>Theoretical understanding and image generation with GAN | Nov 2020 - Nov 2020</strong></p>
       <p><em>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</em></p>
       <ui>
         <li>Implemented existing works on generative adversarial networks for images including DCGAN, WGAN, Cycle GAN.</li>
