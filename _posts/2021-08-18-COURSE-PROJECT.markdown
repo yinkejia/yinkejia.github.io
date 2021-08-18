@@ -18,7 +18,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
       </font>
       <center>
         <video width="480" height="320" controls>
-          <source src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Course_medicaleye.mp4" type="video/mp4">
+          <source src="/assets/videos/Course_medicaleye.mp4" type="video/mp4">
         </video>
       </center>
     </td>
@@ -37,7 +37,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
       </font>
       <center>
         <video width="480" height="320" controls>
-          <source src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Course_Arkbeat.mp4" type="video/mp4">
+          <source src="/assets/videos/Course_Arkbeat.mp4" type="video/mp4">
         </video>
       </center>
     </td>
