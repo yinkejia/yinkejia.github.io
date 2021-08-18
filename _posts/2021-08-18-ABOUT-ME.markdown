@@ -5,14 +5,12 @@ date: 2021-08-18 15:32:24.000000000 +09:00
 ---
 <img style="float:right" src="/assets/images/DSC_0003.JPG" width="102" height="144">
 <h2>KeJia Yin <a href="/assets/documents/CV_Kejia Yin.pdf" target="_blank">[CV]</a></h2>
-<strong>
-<p><font size="4">Undergraduate student</font></p>    
-<p><font size="4">Beijing Institute of Technology (BIT)</font></p>
-<p><font size="4">School of Xuteli</font></p>
-<p><font size="4">B.E. in Computer Science and Technology</font></p>
-<p><font size="4">E-mail：yinkejiaykj@163.com</font></p>
-<p><font size="4">Address: 5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</font></p>
-</strong>
+<p><font size="4"><strong>Undergraduate student</strong></font></p>    
+<p><font size="4"><strong>Beijing Institute of Technology (BIT)</strong></font></p>
+<p><font size="4"><strong>School of Xuteli</strong></font></p>
+<p><font size="4"><strong>B.E. in Computer Science and Technology</strong></font></p>
+<p><font size="4"><strong>E-mail：yinkejiaykj@163.com</strong></font></p>
+<p><font size="4"><strong>Address: 5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</strong></font></p>
 <br><br>
 <font size="4">
 <p>I am a student at the School of Xuteli which recruits the best students of BIT and aims to cultivate talented researchers. Thanks to its flexible policy, I was able to know my advisor Prof. <a href="http://shuangli.xyz/" target="_blank">Shuang Li</a> and start my research career.</p>
