@@ -4,7 +4,7 @@ title: About Me
 date: 2021-08-18 15:32:24.000000000 +09:00
 ---
 <img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/DSC_0003.JPG" width="102" height="144">
-## Kejia Yin
+<h2>KeJia Yin</h2>
 <table border="0" style="float:left" width="100%">
   <tr>
     <td>
@@ -18,7 +18,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
   </tr>
 </table>
 <br>
-## ABOUT ME <a href="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CV_Kejia Yin.pdf" target="_blank">[CV]</a>
+<h2>ABOUT ME</h2> <a href="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CV_Kejia Yin.pdf" target="_blank">[CV]</a>
 
 <p>I am a student at the School of Xuteli which recruits the best students of BIT and aims to cultivate talented researchers. Thanks to its flexible policy, I was able to know my advisor Prof. <a href="http://shuangli.xyz/" target="_blank">Shuang Li</a> and start my research career.</p>
 <p>As for my personality, I am a hardworking and conscientious student and can always finish my work with good quality before the deadline. Also, I  am a quick learner, and I'm always willing to learn new knowledge by myself.</p>
