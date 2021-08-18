@@ -4,9 +4,9 @@ title: ACADEMIC PERFORMANCE
 date: 2021-08-18 15:32:24.000000000 +09:00
 ---
 
-<table border="0" align="left">
+<table border="0">
   <tr>
-    <td width="100%">
+    <td width="100%" align="left">
       <font size="4">
       <p><strong>Overall GPA: 3.77/4.0</strong></p>
       <p><strong>Major GPA: 3.95/4.0</strong></p>
