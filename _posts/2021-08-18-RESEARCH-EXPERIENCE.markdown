@@ -46,7 +46,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
         <li>Wrote a report to analyze the results of the experiments above. The gobang AI based on minimax search and Deep Q-Learning approaches achieved good performance which is comparable to humans’.</li>
         <center>
         <video width="480" height="270" controls>
-          <source src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/Gobang_RL.mp4" type="video/mp4">
+          <source src="/assets/videos/Gobang_RL.mp4" type="video/mp4">
         </video>
         </center>
       </ui>
