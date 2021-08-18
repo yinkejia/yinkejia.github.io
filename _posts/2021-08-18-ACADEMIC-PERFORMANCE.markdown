@@ -4,7 +4,7 @@ title: ACADEMIC PERFORMANCE
 date: 2021-08-18 15:32:24.000000000 +09:00
 ---
 
-<table border="0">
+<table border="0" align="left">
   <tr>
     <td width="100%">
       <font size="4">
