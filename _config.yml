@@ -17,8 +17,8 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: Home
+    description: Visit Home
 
 # Navigation buttons in the front page.
 nav:
@@ -41,13 +41,10 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    #weibo: onevcat
+    #github: onevcat
+    #twitter: onevcat
+    #gplus: 107108267983477358170
+    mail: yinkejiaykj@163.com
 
-# Google Analytics
-ga:
-    # id: your_ga_id
-    # host: your_host
+
