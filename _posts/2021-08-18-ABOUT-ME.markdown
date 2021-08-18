@@ -3,7 +3,7 @@ layout: post
 title: About Me
 date: 2021-08-18 15:32:24.000000000 +09:00
 ---
-<img style="float:right" src="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/DSC_0003.JPG" width="102" height="144">
+<img style="float:right" src="/assets/images/DSC_0003.JPG" width="102" height="144">
 <h2>KeJia Yin <a href="https://raw.githubusercontent.com/yinkejia/homepage-of-Kejia-Yin/gh-pages/CV_Kejia Yin.pdf" target="_blank">[CV]</a></h2>
 <p><font size="4">Undergraduate student</font></p>    
 <p><font size="4">Beijing Institute of Technology (BIT)</font></p>
