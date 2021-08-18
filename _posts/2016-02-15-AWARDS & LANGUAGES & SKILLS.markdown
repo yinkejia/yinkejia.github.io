@@ -6,12 +6,15 @@ date: 2021-08-18 15:32:24.000000000 +09:00
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="75%" align="left">
+      <font size="3">
+      <p><strong>Awards:</strong></p>
       <ui>
         <li>Second-class scholarship</li>
         <li>Third-class scholarships(4 times)</li>
         <li>Outstanding Individual Award</li>
       </ui>
+      </font>
     </td>
   </tr>
 </table>
@@ -19,7 +22,8 @@ date: 2021-08-18 15:32:24.000000000 +09:00
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="75%" align="left">
+      <font size="3">
       <p><strong>Languages:</strong></p>
       <ui>
         <li>Chinese (Native)</li>
@@ -50,6 +54,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
         <li>Pytorch</li>
         <li>Tensorflow</li>
       </ui>
+      </font>
     </td>
   </tr>
 </table>
