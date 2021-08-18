@@ -25,6 +25,7 @@ nav:
     - {title: ABOUT ME, description: My Projects, url: 'https://yinkejia.github.io/2021/08/ABOUT-ME/'}
     - {title: ACADEMIC, description: My Projects, url: 'https://yinkejia.github.io/2021/08/ACADEMIC-PERFORMANCE/'}
     - {title: RESEARCH, description: My Projects, url: 'https://yinkejia.github.io/2021/08/RESEARCH-EXPERIENCE/'}
+    - {title: RESEARCH, description: My Projects, url: 'https://yinkejia.github.io/2021/08/COURSE-PROJECT/'}
     - {title: SKILLS, description: My Projects, url: 'https://yinkejia.github.io/2021/08/AWARDS-&-LANGUAGES-&-SKILLS/'}
     
     # - {title: Another Button, description: A button, url: 'http://example.com'}
