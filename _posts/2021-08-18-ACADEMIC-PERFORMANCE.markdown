@@ -7,9 +7,12 @@ date: 2021-08-18 15:32:24.000000000 +09:00
 <table border="0">
   <tr>
     <td width="100%">
+      <font size="4">
       <p><strong>Overall GPA: 3.77/4.0</strong></p>
       <p><strong>Major GPA: 3.95/4.0</strong></p>
       <p><strong>Core Courses: </strong></p>
+      </font>
+      <font size="3">
       <ui>
         <li>Programming methods and practices (100 ,top 1)</li>
         <li>Software Testing and Quality Assurance (100, top 1)</li>
@@ -28,6 +31,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
         <li>Data Structure (90)</li>    
         <li>Compilation Principle and Design (88)</li> 
        </ui>
+      </font>
      </td>
   </tr>
 </table>
