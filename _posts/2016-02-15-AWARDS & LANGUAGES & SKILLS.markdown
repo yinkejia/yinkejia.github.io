@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWARDS & LANGUAGES & SKILLS.
-date: 2021-08-18 15:32:24.000000000 +09:00
+date: 2021-12-04 15:32:24.000000000 +09:00
 ---
 
 <table border="0">
