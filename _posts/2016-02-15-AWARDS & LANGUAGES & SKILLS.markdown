@@ -11,7 +11,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
       <p><strong>Awards:</strong></p>
       <ui>
         <li>Second-class scholarship</li>
-        <li>Third-class scholarships(4 times)</li>
+        <li>Third-class scholarships(5 times)</li>
         <li>Outstanding Individual Award</li>
       </ui>
       </font>
