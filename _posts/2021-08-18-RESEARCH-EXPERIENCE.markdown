@@ -8,6 +8,19 @@ date: 2021-08-18 15:32:24.000000000 +09:00
   <tr>
     <td width="100%" align="left">
       <font size="3">
+      <p><strong>SPCL: A New Framework for Domain Adaptive Semantic Segmentation via Semantic Prototype-based Contrastive Learning | Sep 2021 – Nov 2021</strong></p>
+      <p><em>Advisor: Shuang Li, Assistant Professor at the School of Computer Science, Beijing Institute of Technology</em></p>
+      <ui>
+        <li>Proposed a novel framework addressing the semantic segmentation task in domain adaptation scenario via semantic prototype-based contrastive learning, and our method achieved new state-of-the-art performance in terms of mIoU.</li>
+        <li>Implemented our method and conducted analytical experiments verifying our idea’s superiority with Pytorch.</li>
+        <li>Co-authored a paper submitted to CVPR 2022</li>
+      </ui>
+      </font>  
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="left">
+      <font size="3">
       <p><strong>Balancing real-world inverted pendulums via virtual training with RL | Jul 2021- Present</strong></p>
       <p><em>Advisor: Hien Tran, Professor and Associate Head at Department of Mathematics, North Carolina State University</em></p>
       <ui>
