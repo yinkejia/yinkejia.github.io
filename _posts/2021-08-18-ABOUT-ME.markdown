@@ -8,7 +8,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
 <p><font size="4"><strong>Undergraduate student</strong></font></p>    
 <p><font size="4"><strong>Beijing Institute of Technology (BIT)</strong></font></p>
 <p><font size="4"><strong>School of Xuteli</strong></font></p>
-<p><font size="4"><strong>B.E. in Computer Science and Technology</strong></font></p>
+<p><font size="4"><strong>B.S. in Computer Science and Technology</strong></font></p>
 <p><font size="4"><strong>E-mail：yinkejiaykj@163.com</strong></font></p>
 <p><font size="4"><strong>Address: 5 Zhongguancun Nan Street, Haidian District, Beijing, 100081, P. R. China</strong></font></p>
 <br><br>
