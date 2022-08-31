@@ -1,0 +1,19 @@
+---
+layout: post
+title: About Me
+date: 2022-08-31 15:32:24.000000000 +09:00
+---
+<img style="float:right" src="/assets/images/DSC_0003.JPG" width="102" height="144">
+<h2>KeJia Yin <a href="/assets/documents/CV_Kejia Yin.pdf" target="_blank">[CV]</a></h2>
+<p><font size="4"><strong>2022 MScAC student</strong></font></p>    
+<p><font size="4"><strong>University of Toronto</strong></font></p>
+<p><font size="4"><strong>B.S. in Computer Science and Technology at Beijing Institute of Technology (BIT)</strong></font></p>
+<p><font size="4"><strong>E-mail：yinkejia@cs.toronto.edu</strong></font></p>
+
+<br><br>
+<font size="4">
+<p>I'm now a MScAC (Master of Science in Applied Computing) at University of Toronto, and I'm activeing seeking Mahcine Learning Internships.</p>
+<p>I was a student at the School of Xuteli which recruits the best students of BIT and aims to cultivate talented researchers. Thanks to its flexible policy, I was able to know my advisor Prof. <a href="http://shuangli.xyz/" target="_blank">Shuang Li</a> and start my research career.</p>
+<p>As for my personality, I am a hardworking and conscientious student and can always finish my work with good quality before the deadline. Also, I  am a quick learner, and I'm always willing to learn new knowledge by myself.</p>
+</font>
+
