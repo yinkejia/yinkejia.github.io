@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWARDS & LANGUAGES & SKILLS.
-date: 2021-12-04 15:32:24.000000000 +09:00
+date: 2022-09-10 15:32:24.000000000 +09:00
 ---
 
 <table border="0">
@@ -9,6 +9,7 @@ date: 2021-12-04 15:32:24.000000000 +09:00
     <td width="75%" align="left">
       <font size="3">
       <p><strong>Awards:</strong></p>
+      <p><strong>Beijing Institute of Technology:</strong></p>
       <ui>
         <li>Second-class scholarship</li>
         <li>Third-class scholarships(5 times)</li>
@@ -24,35 +25,16 @@ date: 2021-12-04 15:32:24.000000000 +09:00
   <tr>
     <td width="75%" align="left">
       <font size="3">
-      <p><strong>Languages:</strong></p>
-      <ui>
-        <li>Chinese (Native)</li>
-        <li>English (TOEFL: 102/R:30 L:25 S:23 W:24; GRE: V:154 Q:170 AW:3.0) </li>
-      </ui>
       <p><strong>Programming Languages:</strong></p>
       <ui>
         <li>C/C++</li>
-        <li>C#</li>
-        <li>python</li>
-        <li>html</li>
-        <li>SQL</li>
-        <li>Matlab</li>
-        <li>Latex</li>
-      </ui>
-      <p><strong>Office Applications: </strong></p>
-      <ui>
-        <li>Microsoft Office</li>
-        <li>Photoshop</li>
-        <li>Premiere</li>
-        <li>Auto CAD</li>
+        <li>Python</li>
+        <li>Java</li>
       </ui>
       <p><strong>Framework & Tools:</strong></p>
       <ui>
-        <li>QT</li>
-        <li>Microsoft SQL Server</li>
-        <li>Microsoft Visual Studio</li>
         <li>Pytorch</li>
-        <li>Tensorflow</li>
+        <li>Matlab</li>
       </ui>
       </font>
     </td>
