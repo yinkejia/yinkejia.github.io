@@ -1,10 +1,24 @@
 ---
 layout: post
 title: RESEARCH EXPERIENCE
-date: 2021-12-04 15:32:24.000000000 +09:00
+date: 2022-09-10 15:32:24.000000000 +09:00
 ---
 
 <table border="0">
+  <tr>
+    <td width="100%" align="left">
+      <font size="3">
+      <p><strong>Research on Domain Generalization Image Classification Based on Gaussian Kernel | Dec 2021 – May 2022</strong></p>
+      <p><em>Advisor: Shuang Li, Assistant Professor at the School of Computer Science, Beijing Institute of Technology</em></p>
+      <ui>
+        <li>Proposed a novel method addressing domain generalization image classification problem by utilizing gaussian kernel to extract the high-frequency information from the image.</li>
+        <li>Implemented the proposed method with Pytorch and achieved competitive results compared to state-of-the-art methods in terms of mean classification accuracy.</li>
+        <li>Wrote a thesis by myself and defended it with five professors from the Department of Computer Science.</li>
+        <img style="float:center" src="/assets/images/DG with Gaussian kernel.png" width="480" height="270">
+      </ui>
+      </font>  
+    </td>
+  </tr>
   <tr>
     <td width="100%" align="left">
       <font size="3">
@@ -28,7 +42,7 @@ date: 2021-12-04 15:32:24.000000000 +09:00
         <li>Successfully balanced the double inverted pendulum by using Actor Critic in a modified gym environment.</li>
         <li>Successfully applied our trained model in the gym to balance a real single inverted pendulum in the lab.</li>
         <li>Trying to directly apply our trained model in the gym to balance a real double inverted pendulum in the lab.</li>
-        <img style="float:right" src="/assets/images/Demo_AC_SIP&DIP.gif" width="160" height="240">
+        <img style="float:left" src="/assets/images/Demo_AC_SIP&DIP.gif" width="160" height="240">
         <img style="float:right" src="/assets/images/Kejia Pendulum_small.gif" width="300" height="240">
       </ui>
       </font>  
