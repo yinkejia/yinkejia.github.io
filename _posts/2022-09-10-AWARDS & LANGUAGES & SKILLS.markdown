@@ -27,7 +27,7 @@ date: 2022-09-10 15:32:24.000000000 +09:00
       <font size="3">
       <p><strong>Programming Languages:</strong></p>
       <ui>
-        <li>C/C++</li>
+        <li>C</li>
         <li>Python</li>
         <li>Java</li>
       </ui>
