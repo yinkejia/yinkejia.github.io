@@ -35,7 +35,7 @@ date: 2022-09-10 15:32:24.000000000 +09:00
   <tr>
     <td width="100%" align="left">
       <font size="3">
-      <p><strong>Balancing real-world inverted pendulums via virtual training with RL | Jul 2021- Present</strong></p>
+      <p><strong>Balancing real-world inverted pendulums via virtual training with RL | Jul 2021- Aug 2021</strong></p>
       <p><em>Advisor: Hien Tran, Professor and Associate Head at Department of Mathematics, North Carolina State University</em></p>
       <ui>
         <li>Implemented Policy Gradient, Actor Critic, and Proximal Policy Optimization with Pytorch and successfully balanced the single inverted pendulum in a modified gym environment which provides a more realistic simulation of physical laws.</li>
@@ -84,7 +84,7 @@ date: 2022-09-10 15:32:24.000000000 +09:00
     <td width="100%" align="left">
        <HR>
       <font size="3">
-      <p><strong>Theoretical understanding and image generation with GAN | Nov 2020 - Nov 2020</strong></p>
+      <p><strong>Theoretical understanding and image generation with GAN | Nov 2020 - Dec 2020</strong></p>
       <p><em>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</em></p>
       <ui>
         <li>Implemented existing works on generative adversarial networks for images including DCGAN, WGAN, Cycle GAN.</li>
