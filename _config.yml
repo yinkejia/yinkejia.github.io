@@ -23,7 +23,7 @@ blog_button:
 # Navigation buttons in the front page.
 nav:
     - {title: ABOUT ME, description: My Projects, url: 'https://yinkejia.github.io/2022/08/ABOUT-ME/'}
-    - {title: ACADEMIC, description: My Projects, url: 'https://yinkejia.github.io/2021/08/ACADEMIC-PERFORMANCE/'}
+    - {title: ACADEMIC, description: My Projects, url: 'https://yinkejia.github.io/2022/09/ACADEMIC-PERFORMANCE/'}
     - {title: RESEARCH, description: My Projects, url: 'https://yinkejia.github.io/2021/12/RESEARCH-EXPERIENCE/'}
     - {title: PROJECT, description: My Projects, url: 'https://yinkejia.github.io/2021/08/COURSE-PROJECT/'}
     - {title: SKILLS, description: My Projects, url: 'https://yinkejia.github.io/2021/12/AWARDS-&-LANGUAGES-&-SKILLS/'}
