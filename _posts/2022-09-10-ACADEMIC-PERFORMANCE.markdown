@@ -1,13 +1,23 @@
 ---
 layout: post
 title: ACADEMIC PERFORMANCE
-date: 2021-08-18 15:32:24.000000000 +09:00
+date: 2022-09-10 15:32:24.000000000 +09:00
 ---
 
 <table border="0">
   <tr>
     <td width="100%" align="left">
       <font size="4">
+      <p><strong>University of Toronto:</strong></p>
+      <p><strong>Core Courses: </strong></p>
+      <ui>
+        <li>Introduction to Machine Learning (Ongoing 2022Fall)</li>
+        <li>Computational Imaging (Ongoing 2022Fall)</li>
+        <li>Neural Networks and Deep Learning (Ongoing 2023Winter)</li>
+        <li>Natural Language Computing (Ongoing 2023Winter)</li>
+      </ui>
+      <p> </p>
+      <p><strong>Beijing Institute of Technology:</strong></p>
       <p><strong>Overall GPA: 3.77/4.0</strong></p>
       <p><strong>Major GPA: 3.95/4.0</strong></p>
       <p><strong>Core Courses: </strong></p>
