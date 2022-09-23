@@ -87,7 +87,7 @@ date: 2022-09-10 15:32:24.000000000 +09:00
       <p><strong>Theoretical understanding and image generation with GAN | Nov 2020 - Dec 2020</strong></p>
       <p><em>Advisor: Shuang Li, Assistant Professor at School of Computer Science, Beijing Institute of Technology</em></p>
       <ui>
-        <li>Implemented existing works on generative adversarial networks for images including DCGAN, WGAN, Cycle GAN.</li>
+        <li>Implemented existing works on generative adversarial networks for images with Pytorch including DCGAN, WGAN, Cycle GAN.</li>
         <li>Wrote a report to analyze the causes of instability of training GAN from the aspect of loss function based on formula derivation and explain the advantages of the loss function used in WGAN.</li>
         <img style="float:right" src="/assets/images/CycleGAN_before.png" width="128" height="128">
         <img style="float:right" src="/assets/images/CycleGAN_after.jpg" width="128" height="128">
