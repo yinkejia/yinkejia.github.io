@@ -11,8 +11,8 @@ date: 2022-09-10 15:32:24.000000000 +09:00
       <p><strong>Research on Domain Generalization Image Classification Based on Gaussian Kernel | Dec 2021 – May 2022</strong></p>
       <p><em>Advisor: Shuang Li, Assistant Professor at the School of Computer Science, Beijing Institute of Technology</em></p>
       <ui>
-        <li>Proposed a novel method addressing domain generalization image classification problem by utilizing gaussian kernel to extract the high-frequency information from the image.</li>
-        <li>Implemented the proposed method with Pytorch and achieved competitive results compared to state-of-the-art methods in terms of mean classification accuracy.</li>
+        <li>Proposed a novel method addressing domain generalization image classification problem by utilizing gaussian kernel to extract the high-frequency information from the image, and implemented this method with Pytorch.</li>
+        <li>Achieved 6.2% and 4.52% mean classification accuracy improvement on Digits-DG and PACS dataset respectively compared with the baseline method, which were competitive results compared to state-of-the-art methods.</li>
         <li>Wrote a thesis by myself and defended it with five professors from the Department of Computer Science.</li>
         <img style="float:center" src="/assets/images/DG with Gaussian kernel.png" width="480" height="270">
       </ui>
