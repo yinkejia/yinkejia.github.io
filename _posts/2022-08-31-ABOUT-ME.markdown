@@ -3,7 +3,7 @@ layout: post
 title: About Me
 date: 2022-08-31 15:32:24.000000000 +09:00
 ---
-<img style="float:right" src="/assets/images/DSC_0003.jpg" width="102" height="144">
+<img style="float:right" src="/assets/images/DSC07174.jpg" width="120" height="160">
 <h2>KeJia Yin <a href="/assets/documents/CV_Kejia Yin.pdf" target="_blank">[CV]</a></h2>
 <p><font size="4"><strong>2022 MScAC student</strong></font></p>    
 <p><font size="4"><strong>University of Toronto</strong></font></p>
