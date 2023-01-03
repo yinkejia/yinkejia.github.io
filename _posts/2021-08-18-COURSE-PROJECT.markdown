@@ -7,6 +7,25 @@ date: 2021-08-18 15:32:24.000000000 +09:00
 <table border="0">
   <tr>
     <td width="100%" align="left">
+      <HR>
+      <font size="3"> 
+      <p><strong>Checkerboard recognition and game algorithm of gobang | Dec 2020 - Jan 2021</strong></p>
+      <p><em>Advisor: Zhiwei Zhang, Professor at School of Computer Science, Beijing Institute of Technology</em></p>
+      <ui>
+        <li>Implemented CNNs for checkerboard recognition with Pytorch.</li>
+        <li>Implemented gobang AI algorithms based on the minimax search strategies, evolutionary algorithms, and deep Q-Learning (in Tensorflow).</li>
+        <li>Wrote a report to analyze the results of the experiments above. The gobang AI based on minimax search and Deep Q-Learning approaches achieved good performance which is comparable to humans’.</li>
+        <center>
+        <video width="480" height="270" controls>
+          <source src="/assets/videos/Gobang_RL.mp4" type="video/mp4">
+        </video>
+        </center>
+      </ui>
+      </font>   
+    </td>
+ </tr>
+  <tr>
+    <td width="100%" align="left">
        <HR>
       <font size="3">
       <p><strong>Course group of Assembly Language and Interface Technology | BIT | Group leader | May 2021 - May 2021</strong></p>
