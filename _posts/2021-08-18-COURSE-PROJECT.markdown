@@ -10,7 +10,7 @@ date: 2021-08-18 15:32:24.000000000 +09:00
       <HR>
       <font size="3"> 
       <p><strong>CSC2529 Computational Imaging | UoT | Nov 2022 - Dec 2022</strong></p>
-      <p>Project Title:<em>Can Diffusion Model Generalize Well in Image Super Resolution with Limited Fine-Tuning?</em></p>
+      <p>Project Title: <em> Can Diffusion Model Generalize Well in Image Super Resolution with Limited Fine-Tuning?</em></p>
       <ui>
         <li>Fine-tuned a pretrained SR3 model with limited update steps, amount of data and time steps on a new data domain which are unseen during pretraining.</li>
         <li>Verified the pretrained model’s generalization ability qualitatively and quantitatively in terms of PSNR, SSIM and LPIPS.</li>
