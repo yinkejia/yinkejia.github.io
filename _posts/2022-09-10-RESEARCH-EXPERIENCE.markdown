@@ -22,19 +22,6 @@ date: 2022-09-10 15:32:24.000000000 +09:00
   <tr>
     <td width="100%" align="left">
       <font size="3">
-      <p><strong>SPCL: A New Framework for Domain Adaptive Semantic Segmentation via Semantic Prototype-based Contrastive Learning | Sep 2021 – Nov 2021</strong></p>
-      <p><em>Advisor: Shuang Li, Assistant Professor at the School of Computer Science, Beijing Institute of Technology</em></p>
-      <ui>
-        <li>Proposed a novel framework addressing the semantic segmentation task in domain adaptation scenario via semantic prototype-based contrastive learning, and our method achieved new state-of-the-art performance in terms of mIoU.</li>
-        <li>Implemented our method and conducted analytical experiments verifying our idea’s superiority with Pytorch.</li>
-        <li>Co-authored a paper submitted to CVPR 2022</li>
-      </ui>
-      </font>  
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="left">
-      <font size="3">
       <p><strong>Balancing real-world inverted pendulums via virtual training with RL | Jul 2021- Aug 2021</strong></p>
       <p><em>Advisor: Hien Tran, Professor and Associate Head at Department of Mathematics, North Carolina State University</em></p>
       <ui>
@@ -61,25 +48,6 @@ date: 2022-09-10 15:32:24.000000000 +09:00
       </font>  
     </td>
   </tr>
-  <tr>
-    <td width="100%" align="left">
-      <HR>
-      <font size="3"> 
-      <p><strong>Checkerboard recognition and game algorithm of gobang | Dec 2020 - Jan 2021</strong></p>
-      <p><em>Advisor: Zhiwei Zhang, Professor at School of Computer Science, Beijing Institute of Technology</em></p>
-      <ui>
-        <li>Implemented CNNs for checkerboard recognition with Pytorch.</li>
-        <li>Implemented gobang AI algorithms based on the minimax search strategies, evolutionary algorithms, and deep Q-Learning (in Tensorflow).</li>
-        <li>Wrote a report to analyze the results of the experiments above. The gobang AI based on minimax search and Deep Q-Learning approaches achieved good performance which is comparable to humans’.</li>
-        <center>
-        <video width="480" height="270" controls>
-          <source src="/assets/videos/Gobang_RL.mp4" type="video/mp4">
-        </video>
-        </center>
-      </ui>
-      </font>   
-    </td>
- </tr>
  <tr>
     <td width="100%" align="left">
        <HR>
