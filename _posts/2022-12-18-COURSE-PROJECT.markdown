@@ -30,6 +30,7 @@ date: 2022-12-18 15:32:24.000000000 +09:00
         <li>Fine-tuned a pretrained SR3 model with limited update steps, amount of data and time steps on a new data domain which are unseen during pretraining.</li>
         <li>Verified the pretrained model’s generalization ability qualitatively and quantitatively in terms of PSNR, SSIM and LPIPS.</li>
         <li>Wrote a report in a conference format and made a poster presentation.<a href="/assets/documents/CSC2529_Project.pdf" target="_blank">[report]</a></li>
+        <img style="float:center" src="/assets/images/CSC2529_Fig.png" width="525" height="240">
       </ui>
       </font>   
     </td>
