@@ -12,7 +12,7 @@ date: 2022-12-18 15:32:24.000000000 +09:00
       <p><strong>CSC2515 Introduction to Machine Learning | UoT | Nov 2022 - Dec 2022</strong></p>
       <p>Project Title: <em> Learning Disentangled Features for Domain Generalization</em></p>
       <ui>
-        <li>Proposed a novel method to disentangle the feature by swapping.</li>
+        <li>Proposed novel methods to disentangle the feature by swapping.</li>
         <li>Implemented the initial version of proposed method with PyTorch.</li>
         <li>Conducted experiments on Digit-DG dataset and our method outperformed all the baseline methods.</li>
         <li>Wrote a report in a conference format with teamates.<a href="/assets/documents/CSC2515_Project.pdf" target="_blank">[report]</a><a href="https://github.com/CapFreddy/CSC2515-Final-Project" target="_blank">[project]</a></li>
