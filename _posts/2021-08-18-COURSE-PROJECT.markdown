@@ -9,11 +9,24 @@ date: 2021-08-18 15:32:24.000000000 +09:00
     <td width="100%" align="left">
       <HR>
       <font size="3"> 
-      <p><strong>Checkerboard recognition and game algorithm of gobang | Dec 2020 - Jan 2021</strong></p>
-      <p><em>Advisor: Zhiwei Zhang, Professor at School of Computer Science, Beijing Institute of Technology</em></p>
+      <p><strong>CSC2529 Computational Imaging | UoT | Nov 2022 - Dec 2022</strong></p>
+      <p>Project Title:<em>Can Diffusion Model Generalize Well in Image Super Resolution with Limited Fine-Tuning?</em></p>
+      <ui>
+        <li>Fine-tuned a pretrained SR3 model with limited update steps, amount of data and time steps on a new data domain which are unseen during pretraining.</li>
+        <li>Verified the pretrained model’s generalization ability qualitatively and quantitatively in terms of PSNR, SSIM and LPIPS.</li>
+        <li>Wrote a report in a conference format and made a poster presentation.<a href="/assets/documents/CSC2529_Project.pdf" target="_blank">[report]</a></li>
+      </ui>
+      </font>   
+    </td>
+ </tr>
+  <tr>
+    <td width="100%" align="left">
+      <HR>
+      <font size="3"> 
+      <p><strong>Introduction to Artificial Intelligence | BIT | Dec 2020 - Jan 2021</strong></p>
       <ui>
         <li>Implemented CNNs for checkerboard recognition with Pytorch.</li>
-        <li>Implemented gobang AI algorithms based on the minimax search strategies, evolutionary algorithms, and deep Q-Learning (in Tensorflow).</li>
+        <li>Implemented gobang AI algorithms based on the minimax search strategies, evolutionary algorithms, and deep Q-Learning.</li>
         <li>Wrote a report to analyze the results of the experiments above. The gobang AI based on minimax search and Deep Q-Learning approaches achieved good performance which is comparable to humans’.</li>
         <center>
         <video width="480" height="270" controls>
