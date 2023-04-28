@@ -1,10 +1,25 @@
 ---
 layout: post
 title: COURSE PROJECT
-date: 2022-12-18 15:32:24.000000000 +09:00
+date: 2023-04-18 15:32:24.000000000 +09:00
 ---
 
 <table border="0">
+  <tr>
+    <td width="100%" align="left">
+      <HR>
+      <font size="3"> 
+      <p><strong>CSC2516 Neural Networks and Deep Learning | UoT | March 2023 - April 2023</strong></p>
+      <p>Project Title: <em> CLIP-guided Zero-Shot Text-to-Image Generation</em></p>
+      <ui>
+        <li>Proposed a method to perfrom zero-shot text-to-image generation based on CLIP guidance.</li>
+        <li>Implemented the proposed method with PyTorch.</li>
+        <li>Conducted experiments on CUB-200 dataset and our method outperformed all the baseline methods.</li>
+        <li>Wrote a report in a conference format with teamates.<a href="/assets/documents/CSC2516_Project_Team66.pdf" target="_blank">[report]</a><a href="https://github.com/CapFreddy/CSC2516-Course-Project" target="_blank">[project]</a></li>
+      </ui>
+      </font>   
+    </td>
+ </tr>
   <tr>
     <td width="100%" align="left">
       <HR>
