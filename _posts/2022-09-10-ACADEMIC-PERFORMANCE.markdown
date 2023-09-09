@@ -11,10 +11,10 @@ date: 2022-09-10 15:32:24.000000000 +09:00
       <p><strong>University of Toronto:</strong></p>
       <p><strong>Core Courses: </strong></p>
       <ui>
-        <li>Introduction to Machine Learning (Ongoing 2022Fall)</li>
-        <li>Computational Imaging (Ongoing 2022Fall)</li>
-        <li>Neural Networks and Deep Learning (Ongoing 2023Winter)</li>
-        <li>Natural Language Computing (Ongoing 2023Winter)</li>
+        <li>Introduction to Machine Learning (A+)</li>
+        <li>Computational Imaging (A+)</li>
+        <li>Neural Networks and Deep Learning (A+)</li>
+        <li>Natural Language Computing (A+)</li>
       </ui>
       <p> </p>
       <p><strong>Beijing Institute of Technology:</strong></p>
