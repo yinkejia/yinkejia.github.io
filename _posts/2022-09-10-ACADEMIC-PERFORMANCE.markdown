@@ -9,6 +9,7 @@ date: 2022-09-10 15:32:24.000000000 +09:00
     <td width="100%" align="left">
       <font size="4">
       <p><strong>University of Toronto:</strong></p>
+      <p><strong>Overall GPA: 4.0/4.0</strong></p>
       <p><strong>Core Courses: </strong></p>
       <ui>
         <li>Introduction to Machine Learning (A+)</li>
