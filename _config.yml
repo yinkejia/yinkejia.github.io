@@ -24,6 +24,7 @@ blog_button:
 nav:
     - {title: ABOUT ME, description: My Projects, url: 'https://yinkejia.github.io/2022/08/ABOUT-ME/'}
     - {title: ACADEMIC, description: My Projects, url: 'https://yinkejia.github.io/2022/09/ACADEMIC-PERFORMANCE/'}
+    - {title: WORK, description: My Projects, url: 'https://yinkejia.github.io/2023/09/WORK-EXPERIENCE/'}
     - {title: RESEARCH, description: My Projects, url: 'https://yinkejia.github.io/2022/09/RESEARCH-EXPERIENCE/'}
     - {title: PROJECT, description: My Projects, url: 'https://yinkejia.github.io/2023/04/COURSE-PROJECT/'}
     - {title: SKILLS, description: My Projects, url: 'https://yinkejia.github.io/2022/09/AWARDS-&-LANGUAGES-&-SKILLS/'}
