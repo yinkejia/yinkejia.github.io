@@ -14,6 +14,7 @@ date: 2022-08-31 15:32:24.000000000 +09:00
 <font size="4">
 <p>I'm now a MScAC (Master of Science in Applied Computing) student at University of Toronto, and I'm actively seeking Mahcine Learning Related positions with applied research. Especially interested in Computer Vision related topics. </p>
 <p>I was a student at the School of Xuteli which recruited the best students of BIT and aimed to cultivate talented researchers. Thanks to its flexible policy, I was able to know my advisor Prof. <a href="http://shuangli.xyz/" target="_blank">Shuang Li</a> and start my research career.</p>
-<p>As for my personality, I am a hardworking and conscientious student and can always finish my work with good quality before the deadline. Also, I  am a quick learner, and I'm always willing to learn new knowledge by myself.</p>
+<p>Currently, I'm doing my internship at Modiface and is supervised by Prof. <a href="https://davidlindell.com/" target="_blank">David B. Lindell</a></p>.
+<p>As for my personality, I am a hardworking and conscientious student and can always finish my work with good quality before the deadline. Also, I am a quick learner, and I'm always willing to learn new knowledge by myself.</p>
 </font>
 
