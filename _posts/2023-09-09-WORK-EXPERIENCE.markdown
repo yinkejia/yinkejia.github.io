@@ -12,8 +12,9 @@ date: 2023-09-09 15:32:24.000000000 +09:00
       <p><em>Machine Learning Intern</em></p>
       <ui>
         <li>Conducted literature review, reproduced existing methods, and made research proposals.</li>
-        <li>Proposed and implemented novel machine learning algorithms, carried out extensive experiments and demonstrated our method outperforming existing SOTA by a large margin.</li>
-        <li>Aiming for publications at top-tier computer vision conferences as the first author.</li>
+        <li>Proposed a novel self-supervised facial landmark estimation method and implemented it with PyTorch.</li>
+        <li>Carried out extensive experiments and demonstrated our proposed method outperforming existing SOTA by 20%~44% on landmark matching and 9%~15% on landmark detection.</li>
+        <li>Composed a conference paper and submitted it to CVPR 2024 as the first author. (Currently under review).</li>
         <img style="float:center" src="/assets/images/Modiface_logo.jpg" width="480" height="270">
       </ui>
       </font>  
