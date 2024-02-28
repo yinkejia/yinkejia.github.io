@@ -34,7 +34,6 @@ date: 2022-09-10 15:32:24.000000000 +09:00
     </td>
   </tr>
   <tr>
-  <tr>
     <td width="100%" align="left">
       <font size="3">
       <p><strong>Research on Domain Generalization Image Classification Based on Gaussian Kernel | Dec 2021 – May 2022</strong></p>
