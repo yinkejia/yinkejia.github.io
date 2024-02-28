@@ -3,6 +3,7 @@ layout: post
 title: RESEARCH EXPERIENCE
 date: 2022-09-10 15:32:24.000000000 +09:00
 ---
+
 <table border="0">
   <tr>
     <td width="75%" align="left">
@@ -15,6 +16,7 @@ date: 2022-09-10 15:32:24.000000000 +09:00
     </td>
   </tr>
 </table>
+
 <table border="0">
   <tr>
     <td width="100%" align="left">
