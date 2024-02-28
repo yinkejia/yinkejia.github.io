@@ -8,6 +8,21 @@ date: 2022-09-10 15:32:24.000000000 +09:00
   <tr>
     <td width="100%" align="left">
       <font size="3">
+      <p><strong> SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation | May 2023 – Nov 2023</strong></p>
+      <p><em>Advisor: David B. Lindell, Assistant Professor at Department of Computer Science, University of Toronto</em></p>
+      <ui>
+        <li>Proposed a novel method addressing self-supervised facial landmark estimation problem by utilizing Masked Autoencoder and selective correspondence enhancement, and implemented this method with Pytorch.</li>
+        <li>Reduced the error by 20~44% and 9~15% on landmark matching and landmark detection respectively compared with the previous state-of-the-art methods.</li>
+        <li>•	Composed a conference paper which is accepted to CVPR 2024 as the first author.</li>
+        <img style="float:center" src="/assets/images/SCE_MAE_Figure_1.jpg" width="550" height="300">
+      </ui>
+      </font>  
+    </td>
+  </tr>
+  <tr>
+  <tr>
+    <td width="100%" align="left">
+      <font size="3">
       <p><strong>Research on Domain Generalization Image Classification Based on Gaussian Kernel | Dec 2021 – May 2022</strong></p>
       <p><em>Advisor: Shuang Li, Assistant Professor at the School of Computer Science, Beijing Institute of Technology</em></p>
       <ui>
