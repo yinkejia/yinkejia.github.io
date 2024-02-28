@@ -3,7 +3,18 @@ layout: post
 title: RESEARCH EXPERIENCE
 date: 2022-09-10 15:32:24.000000000 +09:00
 ---
-
+<table border="0">
+  <tr>
+    <td width="75%" align="left">
+      <font size="3">
+      <p><strong>Publication:</strong></p>
+      <ui>
+        <li><strong>Kejia Yin </strong>, Varshanth Rao, Ruowei Jiang, Xudong Liu, Parham Aarabi, David B. Lindell, “SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation”, in IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR </strong>), 2024.</li>
+      </ui>
+      </font>
+    </td>
+  </tr>
+</table>
 <table border="0">
   <tr>
     <td width="100%" align="left">
